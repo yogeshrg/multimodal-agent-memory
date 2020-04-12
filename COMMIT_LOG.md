@@ -406,3 +406,4 @@
 ## 2020-02-28 17:22:49 - feat(log): implement log module
 ## 2020-03-01 15:12:52 - feat(alert): implement alert module (8/20)
 ## 2020-03-29 18:22:49 - feat(ci): implement ci module (2/20)
+## 2020-04-12 17:17:51 - feat(api): add api endpoint (9/20)
