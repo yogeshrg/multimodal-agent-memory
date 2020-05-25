@@ -8,3 +8,4 @@
 ## 2020-03-29 18:22:49 - feat(ci): implement ci module (2/20)
 ## 2020-04-12 17:17:51 - feat(api): add api endpoint (9/20)
 ## 2020-05-17 16:43:06 - feat(ci): create ci handler (16/20)
+## 2020-05-25 13:46:43 - feat(queue): create queue handler
