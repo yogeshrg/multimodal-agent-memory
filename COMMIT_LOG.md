@@ -9,3 +9,4 @@
 ## 2020-04-12 17:17:51 - feat(api): add api endpoint (9/20)
 ## 2020-05-17 16:43:06 - feat(ci): create ci handler (16/20)
 ## 2020-05-25 13:46:43 - feat(queue): create queue handler
+## 2020-06-06 13:13:05 - feat(infra): implement infra feature (8/20)
