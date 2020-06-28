@@ -812,3 +812,4 @@
 ## 2020-06-06 13:13:05 - feat(infra): implement infra feature (8/20)
 ## 2020-06-06 13:18:31 - feat(core): implement core module (20/20)
 ## 2020-06-28 10:17:54 - feat(log): create log handler (19/20)
+## 2020-06-28 22:44:57 - feat(db): create db handler (7/20)
