@@ -14,3 +14,4 @@
 ## 2020-06-28 10:17:54 - feat(log): create log handler (19/20)
 ## 2020-06-28 22:44:57 - feat(db): create db handler (7/20)
 ## 2020-07-05 19:58:52 - feat(infra): implement infra feature (10/20)
+## 2020-07-18 17:33:46 - feat(metric): implement metric feature (16/20)
