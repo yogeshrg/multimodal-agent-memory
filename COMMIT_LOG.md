@@ -615,3 +615,4 @@
 ## 2020-06-28 22:44:57 - feat(db): create db handler (7/20)
 ## 2020-07-05 19:58:52 - feat(infra): implement infra feature (10/20)
 ## 2020-07-18 17:33:46 - feat(metric): implement metric feature (16/20)
+## 2020-08-02 12:27:37 - feat(ui): add ui endpoint (3/20)
