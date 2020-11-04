@@ -624,3 +624,4 @@
 ## 2020-09-27 23:10:23 - feat(core): create core handler (16/20)
 ## 2020-10-03 23:23:04 - feat(cache): implement cache module (7/20)
 ## 2020-11-01 12:34:42 - feat(monitor): add monitor endpoint (7/20)
+## 2020-11-04 13:21:54 - feat(build): add build support
