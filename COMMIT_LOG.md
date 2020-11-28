@@ -27,3 +27,4 @@
 ## 2020-11-04 13:21:54 - feat(build): add build support
 ## 2020-11-14 14:24:43 - feat(db): implement db feature (9/20)
 ## 2020-11-15 10:29:32 - feat(build): implement build feature (15/20)
+## 2020-11-28 19:55:42 - feat(docs): add docs support (5/20)
