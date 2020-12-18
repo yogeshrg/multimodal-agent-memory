@@ -230,3 +230,4 @@
 ## 2020-11-28 19:55:42 - feat(docs): add docs support (5/20)
 ## 2020-12-07 23:03:27 - feat(db): add db endpoint
 ## 2020-12-13 16:51:00 - feat(ui): add ui endpoint (3/20)
+## 2020-12-18 19:52:10 - feat(queue): create queue handler
