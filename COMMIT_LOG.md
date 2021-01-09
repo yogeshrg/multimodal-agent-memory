@@ -232,3 +232,4 @@
 ## 2020-12-13 16:51:00 - feat(ui): add ui endpoint (3/20)
 ## 2020-12-18 19:52:10 - feat(queue): create queue handler
 ## 2021-01-09 16:49:32 - feat(ci): add ci support (12/20)
+## 2021-01-09 23:05:42 - feat(auth): implement auth module (15/20)
