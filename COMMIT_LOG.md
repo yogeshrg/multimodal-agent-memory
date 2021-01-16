@@ -234,3 +234,4 @@
 ## 2021-01-09 16:49:32 - feat(ci): add ci support (12/20)
 ## 2021-01-09 23:05:42 - feat(auth): implement auth module (15/20)
 ## 2021-01-10 14:56:39 - feat(metric): implement metric module (3/20)
+## 2021-01-16 11:10:46 - feat(data): implement data module (2/20)
