@@ -638,3 +638,4 @@
 ## 2021-01-17 13:41:34 - feat(log): implement log module (15/20)
 ## 2021-01-30 19:52:34 - feat(alert): implement alert feature (3/20)
 ## 2021-02-08 10:48:28 - feat(log): implement log feature
+## 2021-03-06 10:36:10 - feat(monitor): add monitor support (5/20)
