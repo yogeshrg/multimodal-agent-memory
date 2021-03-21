@@ -839,3 +839,4 @@
 ## 2021-01-30 19:52:34 - feat(alert): implement alert feature (3/20)
 ## 2021-02-08 10:48:28 - feat(log): implement log feature
 ## 2021-03-06 10:36:10 - feat(monitor): add monitor support (5/20)
+## 2021-03-21 18:50:35 - feat(core): add core support (6/20)
