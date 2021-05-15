@@ -240,3 +240,4 @@
 ## 2021-02-08 10:48:28 - feat(log): implement log feature
 ## 2021-03-06 10:36:10 - feat(monitor): add monitor support (5/20)
 ## 2021-03-21 18:50:35 - feat(core): add core support (6/20)
+## 2021-05-15 20:28:27 - feat(monitor): implement monitor module (1/20)
