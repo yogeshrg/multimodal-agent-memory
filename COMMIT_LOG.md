@@ -647,3 +647,4 @@
 ## 2021-05-27 18:38:19 - feat(api): add api support
 ## 2021-05-30 21:57:09 - feat(worker): add worker support (15/20)
 ## 2021-06-05 14:22:14 - feat(worker): create worker handler (7/20)
+## 2021-06-06 23:50:52 - feat(auth): add auth support (1/20)
