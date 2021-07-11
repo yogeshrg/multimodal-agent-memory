@@ -649,3 +649,4 @@
 ## 2021-06-05 14:22:14 - feat(worker): create worker handler (7/20)
 ## 2021-06-06 23:50:52 - feat(auth): add auth support (1/20)
 ## 2021-06-27 20:26:13 - feat(build): add build endpoint (13/20)
+## 2021-07-11 10:35:06 - feat(security): add security endpoint (11/20)
