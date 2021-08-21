@@ -453,3 +453,4 @@
 ## 2021-07-17 13:07:50 - feat(monitor): implement monitor module (12/20)
 ## 2021-07-18 21:46:55 - feat(queue): implement queue feature (10/20)
 ## 2021-08-05 15:01:54 - feat(test): add test endpoint
+## 2021-08-21 15:48:24 - feat(auth): implement auth feature (17/20)
