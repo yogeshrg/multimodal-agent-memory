@@ -56,3 +56,4 @@
 ## 2021-08-21 15:48:24 - feat(auth): implement auth feature (17/20)
 ## 2021-08-21 20:02:42 - feat(log): implement log feature (12/20)
 ## 2021-09-05 11:21:47 - feat(security): implement security module (4/20)
+## 2021-09-19 12:26:56 - feat(core): add core endpoint (14/20)
