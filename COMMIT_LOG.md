@@ -259,3 +259,4 @@
 ## 2021-09-19 12:26:56 - feat(core): add core endpoint (14/20)
 ## 2021-09-19 17:29:30 - feat(test): add test endpoint (12/20)
 ## 2021-10-24 17:49:39 - feat(build): implement build module (17/20)
+## 2021-12-04 14:12:50 - feat(auth): add auth support (10/20)
