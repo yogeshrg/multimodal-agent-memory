@@ -260,3 +260,4 @@
 ## 2021-09-19 17:29:30 - feat(test): add test endpoint (12/20)
 ## 2021-10-24 17:49:39 - feat(build): implement build module (17/20)
 ## 2021-12-04 14:12:50 - feat(auth): add auth support (10/20)
+## 2022-01-01 10:09:54 - feat(worker): add worker support (14/20)
