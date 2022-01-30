@@ -62,3 +62,4 @@
 ## 2021-12-04 14:12:50 - feat(auth): add auth support (10/20)
 ## 2022-01-01 10:09:54 - feat(worker): add worker support (14/20)
 ## 2022-01-05 22:57:15 - feat(worker): add worker support
+## 2022-01-30 12:53:47 - feat(security): implement security module (17/20)
