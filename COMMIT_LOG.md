@@ -264,3 +264,4 @@
 ## 2022-01-05 22:57:15 - feat(worker): add worker support
 ## 2022-01-30 12:53:47 - feat(security): implement security module (17/20)
 ## 2022-03-05 13:56:30 - feat(auth): add auth endpoint (15/20)
+## 2022-03-05 16:46:23 - feat(infra): create infra handler (4/20)
