@@ -667,3 +667,4 @@
 ## 2022-03-05 16:46:23 - feat(infra): create infra handler (4/20)
 ## 2022-03-13 18:33:50 - feat(build): implement build module (15/20)
 ## 2022-03-27 14:36:22 - feat(model): implement model module (17/20)
+## 2022-04-10 09:25:26 - feat(test): create test handler (12/20)
