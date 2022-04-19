@@ -470,3 +470,4 @@
 ## 2022-04-10 09:25:26 - feat(test): create test handler (12/20)
 ## 2022-04-10 20:32:00 - feat(deploy): implement deploy module (1/20)
 ## 2022-04-18 15:52:47 - feat(monitor): implement monitor module
+## 2022-04-19 18:13:28 - feat(ui): add ui endpoint
