@@ -75,3 +75,4 @@
 ## 2022-05-01 18:24:27 - feat(security): create security handler (6/20)
 ## 2022-05-14 10:36:14 - feat(build): create build handler (15/20)
 ## 2022-05-22 23:50:16 - feat(worker): add worker endpoint (3/20)
+## 2022-05-29 15:41:23 - feat(test): create test handler (9/20)
