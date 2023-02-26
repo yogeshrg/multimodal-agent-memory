@@ -893,3 +893,4 @@
 ## 2023-02-12 11:55:35 - feat(build): add build endpoint (7/20)
 ## 2023-02-18 18:52:08 - feat(docs): implement docs module (8/20)
 ## 2023-02-23 18:10:53 - feat(core): implement core feature
+## 2023-02-26 20:21:40 - feat(docs): create docs handler (14/20)
