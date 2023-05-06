@@ -101,3 +101,4 @@
 ## 2023-04-15 15:22:06 - feat(cache): create cache handler (11/20)
 ## 2023-04-30 12:41:41 - feat(auth): add auth support (3/20)
 ## 2023-05-06 22:02:16 - feat(db): create db handler (2/20)
+## 2023-05-06 23:57:41 - feat(security): add security support (20/20)
