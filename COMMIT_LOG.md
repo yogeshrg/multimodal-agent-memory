@@ -703,3 +703,4 @@
 ## 2023-05-06 22:02:16 - feat(db): create db handler (2/20)
 ## 2023-05-06 23:57:41 - feat(security): add security support (20/20)
 ## 2023-05-20 14:41:45 - feat(ci): implement ci module (6/20)
+## 2023-05-20 18:28:41 - feat(api): implement api module (20/20)
