@@ -307,3 +307,4 @@
 ## 2023-05-21 11:24:12 - feat(core): add core support (12/20)
 ## 2023-07-01 11:23:42 - feat(log): add log endpoint (9/20)
 ## 2023-07-04 22:23:09 - feat(alert): implement alert feature
+## 2023-07-08 18:28:36 - feat(data): add data support (18/20)
