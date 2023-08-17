@@ -709,3 +709,4 @@
 ## 2023-07-04 22:23:09 - feat(alert): implement alert feature
 ## 2023-07-08 18:28:36 - feat(data): add data support (18/20)
 ## 2023-07-22 22:19:02 - feat(db): add db endpoint (8/20)
+## 2023-08-17 19:28:55 - feat(db): add db endpoint
