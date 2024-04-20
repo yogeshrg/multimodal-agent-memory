@@ -924,3 +924,4 @@
 ## 2024-03-30 11:15:22 - feat(deploy): implement deploy module (20/20)
 ## 2024-04-14 15:23:16 - feat(api): create api handler (18/20)
 ## 2024-04-17 18:51:40 - feat(metric): add metric support
+## 2024-04-20 10:22:17 - feat(api): implement api feature (12/20)
