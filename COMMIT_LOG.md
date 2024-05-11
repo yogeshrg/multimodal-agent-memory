@@ -726,3 +726,4 @@
 ## 2024-04-17 18:51:40 - feat(metric): add metric support
 ## 2024-04-20 10:22:17 - feat(api): implement api feature (12/20)
 ## 2024-05-05 11:27:31 - feat(infra): implement infra module (8/20)
+## 2024-05-11 23:06:41 - feat(cache): create cache handler (14/20)
