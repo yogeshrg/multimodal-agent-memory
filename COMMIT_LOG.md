@@ -528,3 +528,4 @@
 ## 2024-05-05 11:27:31 - feat(infra): implement infra module (8/20)
 ## 2024-05-11 23:06:41 - feat(cache): create cache handler (14/20)
 ## 2024-05-19 17:35:43 - feat(docs): create docs handler (8/20)
+## 2024-06-09 23:02:39 - feat(model): add model endpoint (13/20)
