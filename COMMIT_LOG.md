@@ -335,3 +335,4 @@
 ## 2024-07-28 14:29:39 - feat(build): add build support (7/20)
 ## 2024-08-10 22:34:38 - feat(metric): add metric support (11/20)
 ## 2024-08-25 10:22:34 - feat(alert): implement alert module (14/20)
+## 2024-08-31 16:20:43 - feat(ui): create ui handler (18/20)
