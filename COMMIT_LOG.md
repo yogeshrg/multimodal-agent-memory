@@ -951,3 +951,4 @@
 ## 2025-03-23 21:42:48 - feat(model): create model handler (1/20)
 ## 2025-03-30 20:09:59 - feat(queue): add queue endpoint (16/20)
 ## 2025-04-06 18:25:51 - feat(core): implement core feature (2/20)
+## 2025-04-27 13:46:47 - feat(deploy): add deploy support (15/20)
